@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Carlos Yick</h1>
 <h3 align="center">Soy un desarrollador web apasionado</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java y SQL**
+- 💬 Ask me about **PHP, HTML, CSS, JavaScript, Python, Java y SQL**
 
 - 📫 How to reach me **carlosyick@gmail.com**
 
